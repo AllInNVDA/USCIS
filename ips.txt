@@ -1,0 +1,738 @@
+3secs	85.154.230.162	3128	 flag Oman	
+HTTP	High +KA
+1min	60.206.239.195	8118	 flag China	
+HTTP	High +KA
+1min	31.15.48.12	80	 flag Sweden	
+HTTPS	High +KA
+1min	202.171.253.84	85	 flag Macao	
+HTTP	High +KA
+1min	122.96.59.106	83	 flag China	
+HTTP	High +KA
+1min	111.13.136.57	80	 flag China	
+HTTP	High +KA
+1min	120.198.243.48	80	 flag China	
+HTTP	High +KA
+2mins	183.207.228.9	82	 flag China	
+HTTP	High +KA
+2mins	115.239.210.199	80	 flag China	
+HTTP	Low
+2mins	183.207.237.18	80	 flag China	
+HTTP	High +KA
+2mins	122.225.106.36	80	 flag China	
+HTTP	Low
+3mins	183.207.228.54	83	 flag China	
+HTTP	High +KA
+3mins	202.108.23.247	80	 flag China	
+HTTP	Low
+3mins	183.207.232.119	8080	 flag China	
+HTTPS	High +KA
+3mins	120.198.243.114	80	 flag China	
+HTTP	High +KA
+3mins	183.207.228.116	80	 flag China	
+HTTP	High +KA
+3mins	120.198.243.51	80	 flag China	
+HTTP	High +KA
+3mins	119.6.144.74	80	 flag China	
+HTTP	High +KA
+4mins	44.144.125.1	8080	 flag Belgium	
+HTTPS	High +KA
+4mins	183.207.228.54	80	 flag China	
+HTTP	High +KA
+4mins	83.241.46.175	8080	 flag Latvia	
+HTTPS	High +KA
+5mins	120.198.243.86	80	 flag China	
+HTTP	High +KA
+5mins	221.10.102.203	83	 flag China	
+HTTP	High +KA
+6mins	202.171.253.74	84	 flag Macao	
+HTTP	High +KA
+6mins	183.224.1.30	80	 flag China	
+HTTPS	High +KA
+6mins	202.108.50.75	80	 flag China	
+HTTP	High +KA
+6mins	183.207.237.11	80	 flag China	
+HTTP	High +KA
+7mins	183.207.228.56	80	 flag China	
+HTTP	High +KA
+7mins	124.202.180.186	8118	 flag China	
+HTTP	High +KA
+7mins	61.232.6.164	8081	 flag China	
+HTTPS	High +KA
+8mins	120.198.243.113	80	 flag China	
+HTTP	High +KA
+8mins	183.203.208.179	8118	 flag China	
+HTTP	High +KA
+9mins	183.207.228.122	80	 flag China	
+HTTP	High +KA
+9mins	122.96.59.102	80	 flag China	
+HTTP	High +KA
+9mins	213.85.92.10	80	 flag Russia	
+HTTP	High +KA
+9mins	183.207.228.9	61616	 flag China	
+HTTP	High +KA
+10mins	183.203.208.177	8118	 flag China	
+HTTP	High +KA
+10mins	221.10.102.203	81	 flag China	
+HTTP	High +KA
+10mins	124.88.67.24	80	 flag China	
+HTTP	High +KA
+10mins	120.198.243.115	8888	 flag China	
+HTTP	High +KA
+11mins	222.45.196.19	8001	 flag China	
+HTTP	High +KA
+11mins	124.202.181.170	8118	 flag China	
+HTTP	High +KA
+11mins	120.203.149.162	8118	 flag China	
+HTTP	High +KA
+11mins	183.207.228.9	83	 flag China	
+HTTP	High +KA
+12mins	122.96.59.102	83	 flag China	
+HTTP	High +KA
+12mins	106.120.41.164	8118	 flag China	
+HTTP	High +KA
+13mins	183.207.228.9	80	 flag China	
+HTTP	High +KA
+14mins	212.68.51.58	80	 flag Turkey	
+HTTP	High
+14mins	218.204.140.212	8118	 flag China	
+HTTP	High +KA
+14mins	120.237.30.178	8088	 flag China	
+HTTP	High
+15mins	194.44.193.49	8080	 flag Ukraine	
+HTTP	Low
+15mins	211.144.81.69	18000	 flag China	
+HTTP	Low
+15mins	222.45.196.19	8118	 flag China	
+HTTP	High +KA
+15mins	111.161.126.99	80	 flag China	
+HTTPS	High +KA
+16mins	119.6.144.74	82	 flag China	
+HTTP	High +KA
+16mins	202.171.253.74	83	 flag Macao	
+HTTP	High +KA
+16mins	117.135.252.14	80	 flag China	
+HTTP	High +KA
+16mins	124.202.169.50	8118	 flag China	
+HTTP	High +KA
+16mins	202.107.233.85	8080	 flag China	
+HTTP	High +KA
+16mins	122.96.59.106	81	 flag China	
+HTTP	High +KA
+16mins	183.203.208.170	8001	 flag China	
+HTTP	High +KA
+16mins	220.181.32.106	80	 flag China	
+HTTP	Low
+16mins	60.207.135.214	8118	 flag China	
+HTTP	High +KA
+17mins	186.233.116.90	80	 flag Brazil	
+HTTP	High +KA
+17mins	124.202.182.162	8118	 flag China	
+HTTP	High +KA
+17mins	217.12.215.22	3128	 flag Ukraine	
+HTTPS	High +KA
+17mins	183.207.229.19	9090	 flag China	
+HTTP	High +KA
+17mins	111.13.136.59	80	 flag China	
+HTTP	High +KA
+18mins	183.207.228.9	86	 flag China	
+HTTP	High +KA
+19mins	120.198.243.130	80	 flag China	
+HTTP	High +KA
+19mins	111.13.109.52	80	 flag China	
+HTTP	High +KA
+19mins	124.88.67.33	80	 flag China	
+HTTP	High +KA
+20mins	183.207.232.194	8080	 flag China	
+HTTPS	High +KA
+21mins	122.200.90.172	3128	 flag China	
+HTTPS	High +KA
+21mins	119.40.36.79	18186	 flag China	
+HTTP	High +KA
+21mins	183.203.208.168	8118	 flag China	
+HTTP	High +KA
+21mins	183.207.237.18	81	 flag China	
+HTTP	High +KA
+22mins	202.171.253.74	82	 flag Macao	
+HTTP	High +KA
+22mins	222.45.196.46	8118	 flag China	
+HTTP	High +KA
+22mins	203.93.106.31	3128	 flag China	
+HTTP	Low
+23mins	183.207.228.9	81	 flag China	
+HTTP	High +KA
+23mins	124.88.67.13	80	 flag China	
+HTTP	High +KA
+23mins	175.1.38.111	80	 flag China	
+HTTP	High +KA
+23mins	111.13.136.57	843	 flag China	
+HTTP	High +KA
+23mins	120.203.149.162	8001	 flag China	
+HTTP	High +KA
+23mins	111.161.126.98	80	 flag China	
+HTTPS	High +KA
+23mins	183.203.208.162	8118	 flag China	
+HTTP	High +KA
+23mins	183.207.228.60	80	 flag China	
+HTTP	High +KA
+25mins	202.171.253.74	85	 flag Macao	
+HTTP	High +KA
+25mins	124.202.169.166	8118	 flag China	
+HTTP	High +KA
+25mins	183.203.208.163	8001	 flag China	
+HTTP	High +KA
+26mins	200.146.85.144	80	 flag Brazil	
+HTTPS	High +KA
+26mins	222.45.195.34	8118	 flag China	
+HTTP	High +KA
+26mins	124.88.67.6	80	 flag China	
+HTTP	High +KA
+26mins	122.96.59.106	82	 flag China	
+HTTP	High +KA
+27mins	183.207.228.8	80	 flag China	
+HTTP	High +KA
+27mins	123.125.104.240	80	 flag China	
+HTTP	High +KA
+29mins	183.207.229.139	80	 flag China	
+HTTP	High +KA
+29mins	89.107.114.160	3128	 flag Russia	
+HTTPS	High +KA
+30mins	122.96.59.102	843	 flag China	
+HTTP	High +KA
+30mins	111.206.81.248	80	 flag China	
+HTTP	Low
+30mins	95.168.217.24	3128	 flag Czechia	
+HTTP	High
+31mins	59.61.79.124	8118	 flag China	
+HTTP	High +KA
+31mins	120.83.5.164	18000	 flag China	
+HTTPS	High +KA
+31mins	183.207.229.138	6969	 flag China	
+HTTP	High +KA
+32mins	122.96.59.106	80	 flag China	
+HTTP	High +KA
+32mins	89.39.12.63	1071	 flag Romania	
+HTTP	High +KA
+32mins	103.11.116.46	80	 flag India	
+HTTP	Low
+32mins	211.141.130.56	8118	 flag China	
+HTTP	High +KA
+33mins	178.32.22.85	8123	 flag Germany	
+HTTPS	High +KA
+34mins	119.6.144.74	83	 flag China	
+HTTP	High +KA
+34mins	120.198.243.78	80	 flag China	
+HTTP	High +KA
+35mins	124.88.67.13	843	 flag China	
+HTTP	High +KA
+35mins	183.207.232.193	8080	 flag China	
+HTTPS	High +KA
+37mins	124.202.182.182	8118	 flag China	
+HTTP	High +KA
+37mins	124.202.169.98	8118	 flag China	
+HTTP	High +KA
+39mins	124.202.181.178	8118	 flag China	
+HTTP	High +KA
+39mins	183.207.228.9	89	 flag China	
+HTTP	High +KA
+39mins	88.159.52.39	80	 flag Netherlands	
+HTTP	High +KA
+40mins	124.202.169.54	8118	 flag China	
+HTTP	High +KA
+40mins	178.151.119.1	8080	 flag Ukraine	
+HTTP	High +KA
+41mins	124.202.181.226	8118	 flag China	
+HTTP	High +KA
+41mins	120.198.243.115	8080	 flag China	
+HTTP	High +KA
+41mins	81.0.160.2	3128	 flag Norway	
+HTTPS	High +KA
+41mins	122.225.106.40	80	 flag China	
+HTTP	Low
+42mins	124.202.181.50	8118	 flag China	
+HTTP	High +KA
+43mins	89.39.12.197	1071	 flag Romania	
+HTTP	High +KA
+44mins	62.205.162.68	3128	 flag Russia	
+HTTPS	High +KA
+45mins	178.211.164.146	3128	 flag Russia	
+HTTPS	High +KA
+46mins	222.45.212.130	8118	 flag China	
+HTTP	High +KA
+47mins	203.156.199.6	8089	 flag China	
+HTTPS	High +KA
+48mins	111.13.136.58	80	 flag China	
+HTTP	High +KA
+48mins	183.207.228.57	80	 flag China	
+HTTP	High +KA
+48mins	211.141.130.96	8118	 flag China	
+HTTP	High +KA
+49mins	183.207.228.51	80	 flag China	
+HTTP	High +KA
+49mins	190.121.158.114	8080	 flag Colombia	
+HTTP	Low
+49mins	180.234.213.133	8080	 flag Bangladesh	
+HTTPS	High +KA
+50mins	120.197.57.244	8000	 flag China	
+HTTPS	High +KA
+51mins	58.246.199.122	3128	 flag China	
+HTTPS	High +KA
+52mins	109.224.56.210	8080	 flag Iraq	
+HTTP	Low
+52mins	183.207.229.138	8080	 flag China	
+HTTP	High +KA
+54mins	201.221.132.22	8080	 flag Colombia	
+HTTPS	High +KA
+55mins	94.76.95.113	3128	 flag Ukraine	
+HTTP	High +KA
+55mins	94.154.222.95	8080	 flag Ukraine	
+HTTPS	High +KA
+55mins	123.204.186.209	8197	 flag Taiwan	
+HTTP	High +KA
+58mins	120.131.128.211	80	 flag China	
+HTTP	High +KA
+59mins	185.7.87.43	3128	 flag Europe	
+HTTPS	High +KA
+59mins	119.187.113.218	8081	 flag China	
+HTTP	High +KA
+1h	94.214.73.44	80	 flag Netherlands	
+HTTP	High +KA
+1h	119.6.144.74	843	 flag China	
+HTTP	High +KA
+1h	37.59.101.107	8080	 flag France	
+HTTP	High +KA
+1h 4mins	124.88.67.40	81	 flag China	
+HTTP	High +KA
+1h 4mins	222.45.85.210	8118	 flag China	
+HTTP	High +KA
+1h 5mins	41.72.105.38	3128	 flag Zambia	
+HTTP	Low
+1h 5mins	218.204.141.204	8118	 flag China	
+HTTP	High +KA
+1h 6mins	111.161.126.101	80	 flag China	
+HTTPS	High +KA
+1h 6mins	31.7.232.102	3128	 flag Russia	
+HTTP	High +KA
+1h 7mins	195.169.196.165	80	 flag Netherlands	
+HTTP	High +KA
+1h 8mins	120.131.128.209	80	 flag China	
+HTTP	High +KA
+1h 9mins	218.28.96.39	3128	 flag China	
+HTTP	High +KA
+1h 10mins	185.54.4.198	80	 flag Europe	
+HTTP	High
+1h 11mins	37.59.179.220	3128	 flag France	
+HTTPS	High +KA
+1h 11mins	183.207.228.58	80	 flag China	
+HTTP	High +KA
+1h 12mins	124.88.67.40	82	 flag China	
+HTTP	High +KA
+1h 12mins	31.135.72.20	8080	 flag Russia	
+HTTP	High +KA
+1h 15mins	163.23.70.129	3128	 flag Taiwan	
+HTTP	Low
+1h 16mins	78.109.137.225	3128	 flag Russia	
+HTTP	Low
+1h 16mins	62.209.225.107	8080	 flag Czechia	
+HTTPS	High +KA
+1h 16mins	120.198.243.79	80	 flag China	
+HTTP	High +KA
+1h 22mins	114.252.157.156	8118	 flag China	
+HTTP	High +KA
+1h 24mins	85.70.179.49	8080	 flag Czechia	
+HTTPS	High +KA
+1h 25mins	202.53.83.82	8080	 flag India	
+HTTP	Low
+1h 25mins	36.250.69.4	80	 flag China	
+HTTPS	High +KA
+1h 27mins	111.13.136.59	843	 flag China	
+HTTP	High +KA
+1h 29mins	92.255.197.224	8080	 flag Russia	
+HTTPS	High +KA
+1h 29mins	137.135.166.225	8128	 flag USA	
+HTTP	High +KA
+1h 30mins	202.171.253.84	86	 flag Macao	
+HTTP	High +KA
+1h 30mins	210.82.92.77	3128	 flag China	
+HTTP	Low
+1h 34mins	218.63.208.223	3128	 flag China	
+HTTPS	High +KA
+1h 36mins	195.175.75.114	8080	 flag Turkey	
+HTTP	Low
+1h 36mins	111.13.12.216	80	 flag China	
+HTTP	Low
+1h 37mins	123.204.186.209	80	 flag Taiwan	
+HTTP	High +KA
+1h 37mins	124.202.183.118	8118	 flag China	
+HTTP	High +KA
+1h 37mins	203.192.10.66	80	 flag China	
+HTTPS	High +KA
+1h 38mins	60.13.74.183	843	 flag China	
+HTTP	High +KA
+1h 39mins	124.88.67.40	83	 flag China	
+HTTP	High +KA
+1h 39mins	183.203.208.173	8001	 flag China	
+HTTP	High +KA
+1h 43mins	183.207.228.9	90	 flag China	
+HTTP	High +KA
+1h 45mins	211.144.81.68	18000	 flag China	
+HTTPS	High +KA
+1h 46mins	168.63.24.174	8128	 flag USA	
+HTTPS	High +KA
+1h 49mins	177.12.14.26	80	 flag Brazil	
+HTTP	High +KA
+1h 51mins	124.202.183.246	8118	 flag China	
+HTTP	High +KA
+1h 59mins	183.203.208.173	8118	 flag China	
+HTTP	High +KA
+2h 7mins	218.17.56.189	18186	 flag China	
+HTTP	High +KA
+2h 7mins	94.23.205.32	3128	 flag France	
+HTTPS	High +KA
+2h 8mins	94.140.213.234	3128	 flag Russia	
+HTTPS	High +KA
+2h 10mins	221.10.102.199	843	 flag China	
+HTTP	High +KA
+2h 13mins	124.88.67.40	843	 flag China	
+HTTP	High +KA
+2h 19mins	91.121.113.76	3128	 flag France	
+HTTPS	High +KA
+2h 27mins	222.74.28.14	23	 flag China	
+HTTPS	High +KA
+2h 29mins	81.30.68.33	80	 flag Netherlands	
+HTTP	High +KA
+2h 29mins	92.242.126.86	3128	 flag Ukraine	
+HTTPS	High +KA
+2h 31mins	81.163.88.18	8080	 flag Ukraine	
+HTTP	Low
+2h 31mins	113.106.93.42	3128	 flag China	
+HTTPS	High +KA
+2h 41mins	124.202.182.174	8118	 flag China	
+HTTP	High +KA
+2h 44mins	211.141.133.100	8118	 flag China	
+HTTP	High +KA
+2h 58mins	118.97.95.182	8080	 flag Indonesia	
+HTTP	Medium
+3h	221.10.102.199	81	 flag China	
+HTTP	High +KA
+3h 7mins	183.207.228.50	81	 flag China	
+HTTP	High +KA
+3h 7mins	190.184.144.141	8080	 flag Colombia	
+HTTPS	High +KA
+3h 10mins	86.120.228.78	7777	 flag Romania	
+HTTPS	High +KA
+3h 10mins	60.13.74.183	80	 flag China	
+HTTP	High +KA
+3h 11mins	222.45.196.17	8118	 flag China	
+HTTP	High +KA
+3h 23mins	62.45.67.32	80	 flag Netherlands	
+HTTP	High +KA
+3h 25mins	183.221.220.142	8123	 flag China	
+HTTPS	High +KA
+3h 29mins	124.202.182.218	8118	 flag China	
+HTTP	High +KA
+3h 34mins	46.16.226.10	8080	 flag Russia	
+HTTPS	High +KA
+3h 36mins	124.202.182.42	8118	 flag China	
+HTTP	High +KA
+3h 37mins	82.114.78.105	8080	 flag Albania	
+HTTP	Low
+3h 39mins	123.249.34.12	808	 flag China	
+HTTPS	High +KA
+3h 44mins	122.154.71.49	8080	 flag Thailand	
+HTTP	Low
+3h 52mins	124.202.183.74	8118	 flag China	
+HTTP	High +KA
+3h 53mins	54.69.56.180	8089	 flag USA	
+HTTP	High +KA
+3h 55mins	124.202.181.198	8118	 flag China	
+HTTP	High +KA
+3h 57mins	108.165.33.6	3128	 flag USA	
+HTTPS	High +KA
+4h	95.6.73.253	8086	 flag Turkey	
+HTTP	High +KA
+4h 3mins	139.0.16.202	8080	 flag Australia	
+HTTP	Low
+4h 4mins	80.64.81.34	3128	 flag Ukraine	
+HTTPS	High +KA
+4h 4mins	60.207.63.123	8118	 flag China	
+HTTP	High +KA
+4h 22mins	183.207.228.6	8034	 flag China	
+HTTP	High +KA
+4h 37mins	49.1.245.239	3128	 flag Korea	
+HTTP	High +KA
+4h 38mins	46.37.30.28	80	 flag Italy	
+HTTPS	High +KA
+4h 39mins	95.229.194.153	80	 flag Italy	
+HTTP	High +KA
+4h 48mins	79.172.242.169	8080	 flag Hungary	
+HTTPS	High +KA
+4h 49mins	180.234.213.129	8080	 flag Bangladesh	
+HTTPS	High +KA
+4h 54mins	81.30.67.101	80	 flag Netherlands	
+HTTP	High +KA
+4h 57mins	108.165.33.5	3128	 flag USA	
+HTTP	High +KA
+5h 2mins	145.116.19.100	80	 flag Netherlands	
+HTTP	High +KA
+5h 4mins	61.184.192.42	80	 flag China	
+HTTP	High +KA
+5h 5mins	78.22.24.121	80	 flag Belgium	
+HTTP	High +KA
+5h 11mins	87.245.167.75	3128	 flag Russia	
+HTTP	High +KA
+5h 20mins	49.1.245.237	3128	 flag Korea	
+HTTP	High +KA
+5h 20mins	137.135.166.225	8120	 flag USA	
+HTTPS	High +KA
+5h 20mins	123.139.156.66	8080	 flag China	
+HTTP	High +KA
+5h 20mins	83.82.166.199	80	 flag Netherlands	
+HTTP	High +KA
+5h 22mins	12.145.20.25	80	 flag USA	
+HTTP	High +KA
+5h 36mins	109.197.55.7	3128	 flag Russia	
+HTTPS	High +KA
+5h 44mins	82.217.92.206	80	 flag Netherlands	
+HTTP	High +KA
+5h 47mins	117.239.214.246	6588	 flag India	
+HTTP	High +KA
+5h 52mins	88.159.142.178	80	 flag Netherlands	
+HTTP	High +KA
+5h 53mins	119.81.148.196	3128	 flag China	
+HTTP	High +KA
+6h 5mins	87.120.58.129	8080	 flag Bulgaria	
+HTTP	Low
+6h 10mins	210.101.131.231	8080	 flag Korea	
+HTTP	Low
+6h 35mins	83.128.239.152	80	 flag Netherlands	
+HTTP	High +KA
+6h 38mins	141.135.122.67	80	 flag Belgium	
+HTTP	High +KA
+7h 1min	87.76.12.174	8080	 flag Germany	
+HTTPS	High +KA
+7h 11mins	31.3.244.10	3128	 flag UK	
+HTTPS	High +KA
+7h 13mins	194.106.166.1	8080	 flag Serbia	
+HTTPS	High +KA
+7h 14mins	190.124.251.226	8080	 flag Costa Rica	
+HTTPS	High +KA
+7h 45mins	183.207.228.41	80	 flag China	
+HTTP	High +KA
+7h 47mins	145.97.213.193	80	 flag Netherlands	
+HTTP	High +KA
+7h 52mins	118.163.165.250	3128	 flag Taiwan	
+HTTP	High +KA
+7h 54mins	86.101.99.153	9000	 flag Hungary	
+HTTP	Medium
+8h 5mins	124.202.183.178	8118	 flag China	
+HTTP	High +KA
+8h 27mins	124.115.211.30	9999	 flag China	
+HTTPS	High +KA
+8h 29mins	221.211.105.198	18186	 flag China	
+HTTP	High +KA
+8h 47mins	95.142.167.111	2222	 flag France	
+HTTP	High +KA
+8h 56mins	93.88.130.99	3128	 flag Russia	
+HTTPS	High +KA
+9h 2mins	183.221.187.104	8123	 flag China	
+HTTPS	High +KA
+9h 11mins	221.212.46.11	18186	 flag China	
+HTTP	High +KA
+9h 16mins	137.135.166.225	8123	 flag Luxembourg	
+HTTP	High +KA
+9h 46mins	94.138.149.183	3128	 flag Russia	
+HTTPS	High +KA
+10h 2mins	187.108.223.204	8080	 flag Brazil	
+HTTP	Low
+10h 23mins	54.237.125.156	8888	 flag USA	
+HTTP	High
+10h 27mins	80.112.170.40	80	 flag Netherlands	
+HTTP	High +KA
+10h 27mins	190.39.66.77	8080	 flag Venezuela	
+HTTP	High
+10h 32mins	201.221.133.86	8080	 flag Colombia	
+HTTP	Low
+11h 22mins	110.249.218.74	808	 flag China	
+HTTPS	High +KA
+11h 57mins	219.140.175.71	80	 flag China	
+HTTP	High +KA
+12h 16mins	124.202.220.94	8118	 flag China	
+HTTP	High +KA
+12h 44mins	61.153.209.18	3128	 flag China	
+HTTP	High +KA
+12h 58mins	23.24.89.193	7004	 flag USA	
+HTTP	High +KA
+13h 12mins	94.214.74.175	80	 flag Netherlands	
+HTTP	High +KA
+13h 15mins	177.47.107.226	3128	 flag Brazil	
+HTTP	High +KA
+13h 47mins	124.202.183.194	8118	 flag China	
+HTTP	High +KA
+14h 7mins	124.202.182.50	8118	 flag China	
+HTTP	High +KA
+14h 15mins	24.205.244.90	7004	 flag USA	
+HTTP	High +KA
+14h 16mins	61.152.171.144	808	 flag China	
+HTTP	High +KA
+14h 27mins	121.101.214.160	80	 flag China	
+HTTPS	High +KA
+14h 29mins	54.198.153.225	8888	 flag USA	
+HTTPS	High +KA
+14h 38mins	88.159.132.103	80	 flag Netherlands	
+HTTP	High +KA
+14h 41mins	183.221.208.149	8123	 flag China	
+HTTPS	High +KA
+14h 42mins	66.186.2.163	443	 flag Australia	
+HTTPS	High +KA
+14h 49mins	87.226.68.130	2020	 flag Latvia	
+HTTPS	High +KA
+14h 51mins	46.229.139.77	3128	 flag Russia	
+HTTPS	High +KA
+15h 11mins	122.96.59.102	81	 flag China	
+HTTP	High +KA
+15h 24mins	83.69.210.114	3128	 flag Russia	
+HTTP	High +KA
+15h 30mins	183.207.228.6	8002	 flag China	
+HTTP	High +KA
+16h 34mins	89.218.74.105	3128	 flag Kazakhstan	
+HTTP	High +KA
+17h 13mins	31.170.237.202	3128	 flag Azerbaijan	
+HTTP	High +KA
+17h 59mins	89.39.12.61	1071	 flag Romania	
+HTTP	High +KA
+18h 32mins	195.39.249.2	3128	 flag Ukraine	
+HTTP	High +KA
+18h 37mins	117.41.182.188	8080	 flag China	
+HTTP	Low
+18h 53mins	81.214.73.225	8086	 flag Turkey	
+HTTP	High +KA
+19h 41mins	173.45.228.73	3128	 flag USA	
+HTTPS	High +KA
+19h 52mins	183.207.228.44	80	 flag China	
+HTTP	High +KA
+20h 18mins	89.39.12.68	1071	 flag Romania	
+HTTP	High +KA
+20h 41mins	200.123.180.145	8080	 flag Argentina	
+HTTP	Low
+21h 13mins	95.188.112.11	8080	 flag Russia	
+HTTP	High +KA
+21h 28mins	5.255.147.167	8118	 flag USA	
+HTTP	High +KA
+21h 46mins	186.112.154.173	80	 flag Colombia	
+HTTPS	High +KA
+22h 10mins	195.178.94.39	808	 flag Czechia	
+HTTP	High +KA
+22h 28mins	89.39.12.71	1071	 flag Romania	
+HTTP	High +KA
+22h 48mins	41.222.196.52	8080	 flag Zaire	
+HTTP	Low
+22h 51mins	212.73.73.252	3128	 flag Armenia	
+HTTP	High +KA
+23h 25mins	195.114.129.171	3128	 flag Ukraine	
+HTTP	Low
+23h 27mins	222.124.149.178	3128	 flag Indonesia	
+HTTP	Low
+23h 28mins	41.72.151.180	8000	 flag South Africa	
+HTTP	High +KA
+23h 50mins	89.39.12.66	1071	 flag Romania	
+HTTP	High +KA
+29mins	183.207.229.139	80	 flag China	
+HTTP	High +KA
+29mins	89.107.114.160	3128	 flag Russia	
+HTTPS	High +KA
+29mins	124.202.182.198	8118	 flag China	
+HTTP	High +KA
+29mins	183.203.208.166	8001	 flag China	
+HTTP	High +KA
+29mins	218.59.144.120	81	 flag China	
+HTTP	Low
+29mins	60.194.14.144	82	 flag China	
+HTTP	Medium
+30mins	122.96.59.102	843	 flag China	
+HTTP	High +KA
+30mins	82.166.34.48	8085	 flag Israel	
+HTTPS	High +KA
+30mins	202.53.254.99	8080	 flag Indonesia	
+HTTP	Low
+30mins	183.207.229.138	9090	 flag China	
+HTTP	High +KA
+30mins	111.206.81.248	80	 flag China	
+HTTP	Low
+30mins	218.206.83.89	80	 flag China	
+HTTP	High +KA
+30mins	124.202.181.110	8118	 flag China	
+HTTP	High +KA
+30mins	190.203.195.28	8080	 flag Venezuela	
+HTTPS	High +KA
+30mins	88.150.136.180	3129	 flag Serbia	
+HTTP	High +KA
+30mins	183.207.229.138	818	 flag China	
+HTTP	High +KA
+30mins	183.207.229.17	80	 flag China	
+HTTP	High +KA
+30mins	95.168.217.24	3128	 flag Czechia	
+HTTP	High
+31mins	59.61.79.124	8118	 flag China	
+HTTP	High +KA
+31mins	120.83.5.164	18000	 flag China	
+HTTPS	High +KA
+31mins	183.207.229.138	6969	 flag China	
+HTTP	High +KA
+31mins	183.207.224.51	80	 flag China	
+HTTP	High +KA
+31mins	61.53.143.179	80	 flag China	
+HTTPS	High +KA
+32mins	122.96.59.106	80	 flag China	
+HTTP	High +KA
+32mins	89.39.12.63	1071	 flag Romania	
+HTTP	High +KA
+32mins	219.93.183.93	80	 flag Malaysia	
+HTTP	High
+32mins	188.132.226.2	80	 flag Turkey	
+HTTP	High
+32mins	103.11.116.46	80	 flag India	
+HTTP	Low
+32mins	116.236.216.116	8080	 flag China	
+HTTPS	High +KA
+32mins	211.141.130.56	8118	 flag China	
+HTTP	High +KA
+33mins	123.58.129.48	80	 flag China	
+HTTP	High +KA
+33mins	183.207.224.50	81	 flag China	
+HTTP	High +KA
+33mins	88.150.136.179	3128	 flag Serbia	
+HTTP	High +KA
+33mins	178.32.22.85	8123	 flag Germany	
+HTTPS	High +KA
+33mins	108.165.33.10	3128	 flag USA	
+HTTPS	High +KA
+34mins	183.207.229.138	9999	 flag China	
+HTTP	High +KA
+34mins	121.59.17.37	80	 flag China	
+HTTP	High +KA
+34mins	86.107.110.73	8089	 flag Romania	
+HTTPS	High +KA
+34mins	119.6.144.74	83	 flag China	
+HTTP	High +KA
+34mins	120.198.243.53	80	 flag China	
+HTTP	High +KA
+34mins	120.198.243.78	80	 flag China	
+HTTP	High +KA
+35mins	124.88.67.13	843	 flag China	
+HTTP	High +KA
+35mins	120.236.148.113	3128	 flag China	
+HTTPS	High +KA
+35mins	183.207.232.193	8080	 flag China	
+HTTPS	High +KA
+35mins	120.202.249.230	80	 flag China	
+HTTP	High +KA
+35mins	183.207.224.52	80	 flag China	
+HTTP	High +KA
+35mins	202.108.15.130	9999	 flag China	
+HTTP	High +KA
+35mins	117.135.251.74	80	 flag China	
+HTTP	Low
+36mins	124.202.208.18	8118	 flag China	
+HTTP	High +KA
+36mins	88.150.136.178	3128	 flag Serbia	
+HTTP	High +KA
